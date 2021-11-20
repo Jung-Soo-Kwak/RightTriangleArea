@@ -6,4 +6,4 @@ struct RightTriangle
 	int width;
 };
 
-double RightTriangle_area(struct RightTriangle a);
+double RightTriangle_area(struct RightTriangle A);

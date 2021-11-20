@@ -3,9 +3,9 @@
 
 void main(int argc, char* argv[])
 {
-	struct RightTriangle a;
-	a.height = 3;
-	a.width = 4;
+	struct RightTriangle A;
+	A.height = 3;
+	A.width = 4;
 
-	printf("RightTriangle`s Area is %.2lf\n", RightTriangle_area(a));
+	printf("RightTriangle`s Area is %.2lf\n", RightTriangle_area(A));
 }
